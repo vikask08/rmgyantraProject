@@ -1,0 +1,16 @@
+{
+  "companyname" : "TESTYANTRA",
+  "employeCount" : 3500,
+  "companyDomain" : "Product",
+  "a" : [ {
+    "name" : "vikas",
+    "empID" : "Sdet29",
+    "phoneNo" : 7987,
+    "email" : "vikas@gmail.com"
+  }, {
+    "name" : "Sha",
+    "empID" : "Sdet37",
+    "phoneNo" : 6876,
+    "email" : "sha@hmail.com"
+  } ]
+}

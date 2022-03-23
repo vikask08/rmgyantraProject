@@ -1,0 +1,11 @@
+{
+  "name" : "vikas",
+  "empId" : "sdet29",
+  "email" : "vikas@gmail.com",
+  "mobno" : 986875757,
+  "spouce" : {
+    "name" : "Mrs. Someone",
+    "email" : "mrssomeone@gmail.com",
+    "phone" : 379869262
+  }
+}
